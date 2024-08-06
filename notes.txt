@@ -1,0 +1,10 @@
+Python 3.12
+
+notebook
+pandas
+selenium
+
+https://www.omdena.com/chapter-challenges/enhancing-legal-research-and-prediction-through-ai-powered-case-law-analysis
+
+https://www.loc.gov/search/?fa=original-format:periodical&q=employment+discrimination
+
